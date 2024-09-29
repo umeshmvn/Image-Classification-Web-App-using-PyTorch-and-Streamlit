@@ -16,7 +16,8 @@ A simple web demo with minimal framework using PyTorch and Streamlit to showcase
 ## Steps to Use the Application
 - Clone the repository onto your own local machine
 
-![image](https://user-images.githubusercontent.com/45563371/102073488-58953500-3e3e-11eb-9581-e16823f808fd.png)
+![image](https://github.com/user-attachments/assets/d7859497-c1d8-4aed-9241-3f9d58d606d4)
+
 
 - Open command prompt/terminal
 
@@ -52,5 +53,5 @@ pip install -r requirements.txt
 ```
 
 ## Code and Resources Used
-- Python: Version 3.7.4
+- Python: Version 3.11.5
 - Packages: PIL, torchvision, torch, streamlit
